@@ -153,7 +153,7 @@ img.img-full-width {
 }
 .nino-btn {
 	display: inline-block;
-	color: #91C3EB ;
+	color: #FFF0BE ;
 	text-transform: uppercase;
 	padding: 10px 20px;
 	text-align: center;
@@ -164,7 +164,7 @@ img.img-full-width {
 }
 .nino-btn:hover {
 	color: #fff;
-	background: #91C3EB;
+	background: #FFF0BE;
 }
 .bg-white {
 	background-color: #fff !important;
@@ -174,7 +174,7 @@ img.img-full-width {
 	text-align: center;
 }
 .nino-hoverEffect .item {
-	background: #144173;
+	background: #FFF0BE;
 	display: inline-block;
 }
 .nino-hoverEffect .item .overlay {
