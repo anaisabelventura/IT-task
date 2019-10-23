@@ -35,7 +35,7 @@ hr {
 a {
 	text-decoration: none;
 	outline: none;
-	color: #2ec06c;
+	color: #FFCD32;
 	-webkit-transition: all .3s ease-in-out;
 	   -moz-transition: all .3s ease-in-out;
 		 -o-transition: all .3s ease-in-out;
@@ -1243,7 +1243,7 @@ div.pp_default .pp_social {
     }
 	/* =============== MENU AREA =============== */
 	#nino-navbar {
-		background: rgba(161, 196, 38, 0);
+		background: rgba(230, 205, 50, 0);
 	}
 	#nino-navbar .navbar-header {
 		padding-right: 80px;
