@@ -201,10 +201,10 @@ img.img-full-width {
 		 -o-transition: all .3s ease-in-out;
 		-ms-transition: all .3s ease-in-out;
 			transition: all .3s ease-in-out;
-	background: rgba(145, 195, 235, 0.9); /* fallback for old browsers */ /* Chrome 10-25, Safari 5.1-6 */
-	background: -webkit-linear-gradient(top, rgba(145,195,235,0.9), rgba (20,65,115, 0.9));
-	background: -o-linear-gradient(top, rgba(145,195,235,0.9), rgba(20,65,115, 0.9));
-	background: linear-gradient(to bottom, rgba(145,195,235,129,0.9), rgba(20,65,115, 0.9)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: rgba(255,240,190, 0.9); /* fallback for old browsers */ /* Chrome 10-25, Safari 5.1-6 */
+	background: -webkit-linear-gradient(top, rgba(255,240,190,0.9), rgba (250,205,50, 0.9));
+	background: -o-linear-gradient(top, rgba(255,240,190,0.9), rgba(250,205,50, 0.9));
+	background: linear-gradient(to bottom, rgba(255,240,190,129,0.9), rgba(250,205,50, 0.9)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 .nino-hoverEffect .item:hover .overlay {
 	left: -10px;
